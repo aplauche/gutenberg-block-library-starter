@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "ap/block-two",
+	"version": "0.1.0",
+	"title": "Second Block",
+	"category": "design",
+	"icon": "smiley",
+	"description": "The Second block!",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:../../../../build/block-two.js",
+	"editorStyle": "file:../../../../build/block-two.css",
+	"style": "file:../../../../build/style-block-two.css"
+}

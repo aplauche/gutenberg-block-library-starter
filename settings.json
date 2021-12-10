@@ -1,0 +1,10 @@
+{
+    "colorPallete": [
+        { "name": "white", "color": "#fff" },
+        { "name": "black", "color": "#000" },
+        { "name": "gray", "color": "gray" },
+        { "name": "blue", "color": "blue" },
+		{ "name": "yellow", "color": "yellow" },
+		{ "name": "green", "color": "green" }
+    ]
+}
